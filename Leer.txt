@@ -1,0 +1,2 @@
+*Cargar node_modules
+   - Antes de ejecutar el proyecto, ejecutar npm install y luego npm start
