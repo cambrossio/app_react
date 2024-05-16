@@ -5,7 +5,7 @@ import 'firebase/compat/storage'
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyBv7hFvh7WT_iuAqI5xovTCcJdCwIy3dsk",
+    apiKey: "APIKEY",
     authDomain: "diplomaturareact-ba2fc.firebaseapp.com",
     projectId: "diplomaturareact-ba2fc",
     storageBucket: "diplomaturareact-ba2fc.appspot.com",
